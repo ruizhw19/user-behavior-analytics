@@ -69,5 +69,5 @@ Generated output will be saved to the `output/` folder.
 
 * Python scripting
 * Data processing workflow design
-* Basic analytics metric calculation
+* Analytics metric calculation
 * Clean project organization
